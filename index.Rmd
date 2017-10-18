@@ -4,9 +4,6 @@ author: "Ben Kolbrich"
 date: "October 18, 2017"
 output: html_document
 ---
-##Ben Kolbrich
-October 18, 2017
-
 Here is some arithmetic:
 
 ```{r}
